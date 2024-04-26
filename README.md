@@ -32,6 +32,12 @@ The chatbot with rule-based responses project demonstrates a basic implementatio
 
 # User Interaction:
 
+<img width="960" alt="image" src="https://github.com/Berlinshaju/CODTech-AI-Task-1/assets/66897078/cc44bb5c-70cd-4944-8cd3-cd53ac0f85f1">
+
+<img width="960" alt="image" src="https://github.com/Berlinshaju/CODTech-AI-Task-1/assets/66897078/df1a784c-4046-4b58-abc4-4406d855ee21">
+
+
+
 
 
 
