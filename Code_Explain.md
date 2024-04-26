@@ -3,8 +3,8 @@ The **rules** dictionary is defined to store the patterns and their correspondin
 Regular expressions are used to define flexible patterns that can match multiple variations of user input.
 
 # 2. Match Rule Function:
-The**match_rule**function is defined to match user input against the predefined rules.
-It takes two parameters:**user_input** (the input provided by the user) and **rules** (the dictionary containing the predefined rules and responses).
+The **match_rule** function is defined to match user input against the predefined rules.
+It takes two parameters: **user_input** (the input provided by the user) and **rules** (the dictionary containing the predefined rules and responses).
 The function iterates through each key-value pair in the rules dictionary.
 For each pair, it uses the **re.search()** function to search for the pattern in the user's input.
 If a match is found, it returns the corresponding response. If no match is found, it moves on to the next rule.
