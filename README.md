@@ -18,6 +18,20 @@ The main function handles user interactions, prompting users for input and provi
 
 <img width="725" alt="image" src="https://github.com/Berlinshaju/CODTech-AI-Task-1/assets/66897078/9796c768-07ed-4f6f-b78b-c28106984aef">
 
+# Program Execution:
+**Step 1:** The program starts by welcoming the user and prompting them to ask a question or say 'bye' to exit.
+
+**Step 2:** The user inputs a query or message.
+
+**Step 3:** The chatbot processes the input and provides a response based on the predefined rules.
+
+**Step 4:** The conversation continues until the user decides to exit by typing 'bye', 'goodbye', or 'exit'.
+
+# Conclusion:
+The chatbot with rule-based responses project demonstrates a basic implementation of a conversational agent. By defining rules and responses, the chatbot can engage users in conversations on a variety of topics. However, it lacks advanced natural language processing capabilities and may struggle with complex queries or ambiguous input.
+
+# User Interaction:
+
 
 
 
